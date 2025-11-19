@@ -1,0 +1,8 @@
+print "HELLO WORLD"
+
+// this is a comment
+(( )){} // grouping stuff
+!*+-/=<> <= == // operators
+123
+123.45
+.456
